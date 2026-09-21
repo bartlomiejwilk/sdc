@@ -145,7 +145,6 @@ W zaleceniu uwzględniono poniżej wymienione przepisy:
 5. [ETSI EN 301 549 V4.1.1:2026, *Accessibility requirements for ICT products and services*](https://www.etsi.org/deliver/etsi_en/301500_301599/301549/04.01.01_60/en_301549v040101p.pdf), dostęp: 21 września 2026 r.
 6. [W3C, *Web Content Accessibility Guidelines (WCAG) 2.1*](https://www.w3.org/TR/WCAG21/), dostęp: 21 września 2026 r.
 7. [W3C, *Web Content Accessibility Guidelines (WCAG) 2.2*](https://www.w3.org/TR/WCAG22/), dostęp: 21 września 2026 r.
-8. [Bartłomiej Wilk, *AI i agenty AI w komunikacji cyfrowej – analiza prawna i dostępnościowa*](https://docs.google.com/document/d/1cuGIRJbLJQyaQ995MmE2ILCBZ06qJca70qeWYaqw1so/edit), stan analizy: 21 września 2026 r.
 
 ## 7. Powiązania z innymi dokumentami Sieci
 
